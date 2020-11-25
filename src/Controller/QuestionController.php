@@ -1,10 +1,13 @@
 <?php
+
 namespace App\Controller;
+
 use Knp\Bundle\MarkdownBundle\MarkdownParserInterface;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
 use Twig\Environment;
+
 class QuestionController extends AbstractController
 {
     /**
@@ -19,6 +22,7 @@ class QuestionController extends AbstractController
         */
         return $this->render('question/homepage.html.twig');
     }
+
     /**
      * @Route("/questions/{slug}", name="app_question_show")
      */
