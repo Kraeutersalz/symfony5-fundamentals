@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cdc1c1a9-bad9-4c90-afdf-45f03eceb093" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/QuestionController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/QuestionController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/cache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/cache.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -93,7 +96,14 @@
       <workItem from="1606315803668" duration="88000" />
       <workItem from="1606317268508" duration="1151000" />
       <workItem from="1606319880191" duration="289000" />
-      <workItem from="1606500072041" duration="1093000" />
+      <workItem from="1606500072041" duration="1270000" />
+      <workItem from="1606649469392" duration="593000" />
+      <workItem from="1606723304337" duration="18000" />
+      <workItem from="1606818967774" duration="280000" />
+      <workItem from="1606830449898" duration="174000" />
+      <workItem from="1606832830153" duration="1431000" />
+      <workItem from="1606837114740" duration="586000" />
+      <workItem from="1606844056730" duration="515000" />
     </task>
     <servers />
   </component>
